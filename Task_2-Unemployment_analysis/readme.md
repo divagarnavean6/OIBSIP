@@ -10,7 +10,7 @@
 
 ### 5.Rename the columns in the data using the columns attribute.
 
-### 6.Create a heatmap using Seaborn to visualize the correlation between different columns in the data.
+### 6.Create a heatmap using Seaborn to visualize the correlation between the different columns in the data.
 
 ### 7.Create a histogram using Seaborn to visualize the unemployment rate (EE) for each state in India.
 
