@@ -34,4 +34,4 @@
 
 ## 14.Print the predicted class label to the console using the print() function.
 
-## That's it! The code reads in email data from a CSV file, trains a spam detector model using the Naive Bayes algorithm, and makes predictions on user input messages.
+## That's it! The code reads in email data from a CSV file, trains a spam detector model using Naive Bayes algorithm, and makes predictions on user input messages.
