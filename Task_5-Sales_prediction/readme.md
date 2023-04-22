@@ -14,4 +14,4 @@
 
 ## Finally, the predicted sales are stored in a new pandas dataframe called "data" and printed to the console.
 
-## In summary, this code reads data from a CSV file, creates a heatmap to visualize the correlation between features and target variable, trains a Linear Regression model on the training data, and then generates predictions on the testing data. The predicted sales are stored in a pandas dataframe and printed to the console.
+## In summary, this code reads data from a CSV file, creates a heatmap to visualize the correlation between features and target variable, trains a Linear Regression model on training data, and then generates predictions on the testing data. The predicted sales are stored in a pandas dataframe and printed to the console.
