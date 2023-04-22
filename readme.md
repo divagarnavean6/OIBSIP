@@ -1,4 +1,4 @@
-# [Data Science Internship](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE)
+# [Data Science Internship](https://github.com/divagarnavean6/OIBSIP)
 
 ## This repository is the outcomes of my Data Science internship. During this internship, I worked on various projects related to data analysis, machine learning, and data visualization.
 
@@ -12,6 +12,6 @@
 
 ### [Email Spam Classification](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE/tree/main/Task-4_Email_Spam) - In this project, I built a machine learning model to classify emails as spam or not spam. I used the famous SpamBase dataset to train my model and evaluated its performance using various metrics.
 
-### [Sales Prediction](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE/tree/main/Task-5_Sales_Predict) - In this project, I built a machine learning model to predict the sales of a product based on various factors such as advertising cost, target audience, and platform. I used the Advertising dataset and trained my model using linear regression.
+### [Sales Prediction](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE/tree/main/Task-5_Sales_Predict) - In this project, I built a machine learning model to predict the sales of a product based on various factors such as advertising cost, target audience, and platform. I used Advertising dataset and trained my model using linear regression.
 
 ## I have provided the code and detailed explanation for each of these tasks in their respective directories.
