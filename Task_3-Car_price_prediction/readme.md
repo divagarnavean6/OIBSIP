@@ -10,7 +10,7 @@
 
 ## 4.Choose an appropriate model: Choose a regression algorithm that is suitable for the problem at hand. Examples of regression algorithms include linear regression, decision trees, and random forests.
 
-## 5.Train the model: Train the chosen model on the training data.
+## 5.Train the model: Train the chosen model on training data.
 
 ## 6.Evaluate the model: Evaluate the performance of the model using different metrics such as Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared.
 
