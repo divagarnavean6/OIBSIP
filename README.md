@@ -1,6 +1,6 @@
 # [Data Science Internship](https://github.com/Priyadharshan2003/OIBSIP-DATA-SCIENCE)
 
-## This repository contains the outcomes of my Data Science internship. During this internship, I worked on various projects related to data analysis, machine learning, and data visualization.
+## This repository is the outcomes of my Data Science internship. During this internship, I worked on various projects related to data analysis, machine learning, and data visualization.
 
 ## Tasks
 
